@@ -50,4 +50,4 @@ Hi, I'm Keval Botadra, a Machine Learning and Artificial Intelligence Student ðŸ
 <!--END_SECTION:waka-->
 
 
-### [What is Vershio?](https://github.com/qoobes/vershio)
+### [What is Vershio?](https://github.com/kevalbotadra/vershio)
