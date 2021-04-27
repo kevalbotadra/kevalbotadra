@@ -51,5 +51,8 @@ Hi, I'm Keval Botadra, a Machine Learning and Artificial Intelligence Student ðŸ
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+# [What is Vershio?](https://github.com/kevalbotadra/vershio)
 
-### [What is Vershio?](https://github.com/kevalbotadra/vershio)
+### THANK YOU FOR CHECKING MY PROFILE OUT! ![](https://komarev.com/ghpvc/?username=kevalbotadra&color=red)
+
+
