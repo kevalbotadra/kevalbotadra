@@ -55,7 +55,7 @@ Hi, I'm Keval Botadra, a Machine Learning and Artificial Intelligence Student ðŸ
 
 # [What is Vershio?](https://github.com/kevalbotadra/vershio)
 
-### THANK YOU FOR CHECKING MY PROFILE OUT! 
+THANK YOU FOR CHECKING MY PROFILE OUT! :upside_down_face:
 <br />
 
 ![](https://komarev.com/ghpvc/?username=kevalbotadra&color=red)
