@@ -55,6 +55,7 @@ Hi, I'm Keval Botadra, a Machine Learning and Artificial Intelligence Student ðŸ
 
 ### THANK YOU FOR CHECKING MY PROFILE OUT! 
 <br />
-.![](https://komarev.com/ghpvc/?username=kevalbotadra&color=red)
+
+![](https://komarev.com/ghpvc/?username=kevalbotadra&color=red)
 
 
