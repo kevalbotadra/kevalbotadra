@@ -22,6 +22,8 @@ Hi, I'm Keval Botadra, a Machine Learning and Artificial Intelligence Student �
   <img align="right" alt="GIF" src="https://media1.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e47alh9mig1dew6p1m568ise6ldd6dwpsyai9u7ljo3&rid=giphy.gif&ct=g" />
 
 
+
+
 **More About Me?**
 
 - 👨🏽‍💻 I am currently expanding my machine learning and artificial intelligence knowledge;
