@@ -16,7 +16,7 @@
 <br />
 <br />
 
-Hi, I'm Keval Botadra, a Machine Learning and Artificial Intelligence Student 🚀 from New Hampshire, currently, I am explroing and learning new frameworks and creating awesome projects. I love data science and aspire to be a machine learning engineer in the future :).
+Hi, I'm Keval Botadra, a Mobile Developer and student 🚀 from New Hampshire, currently, I am explroing and learning new frameworks and creating awesome projects. I love mobile app development, specificly flutter, and aspire to be a professional mobile dev in the future.
 <br />
 
   <img align="right" alt="GIF" src="https://media1.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e47alh9mig1dew6p1m568ise6ldd6dwpsyai9u7ljo3&rid=giphy.gif&ct=g" />
@@ -26,7 +26,7 @@ Hi, I'm Keval Botadra, a Machine Learning and Artificial Intelligence Student �
 
 **More About Me?**
 
-- 👨🏽‍💻 I am currently expanding my machine learning and artificial intelligence knowledge;
+- 👨🏽‍💻 I am currently exploring mobile app development through flutter!
 - 🌱 I am trying to partake in as many upcoming hackathons as possible; 
 - 👯 I am also trying to improve my webdev skills by learning more javascript!;
 - 💬 Reach out to me for anything :);
