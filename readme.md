@@ -16,7 +16,7 @@
 <br />
 <br />
 
-Hi, I'm Keval Botadra, a Mobile Developer and student 🚀 from New Hampshire, currently, I am explroing and learning new frameworks and creating awesome projects. I love mobile app development, specificly flutter, and aspire to be a professional mobile dev in the future.
+Hi, I'm Keval Botadra, a Mobile Developer and student 🚀 from New Hampshire, currently, I am exploring and learning new frameworks and creating awesome projects. I love mobile app development, specificly flutter, and aspire to be a professional mobile dev in the future.
 <br />
 
   <img align="right" alt="GIF" src="https://media1.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e47alh9mig1dew6p1m568ise6ldd6dwpsyai9u7ljo3&rid=giphy.gif&ct=g" />
