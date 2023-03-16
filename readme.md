@@ -4,7 +4,7 @@
   <img align="left" alt="Keval's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://devpost.com/kevalbotadra">
-  <img align="left" alt="Keval's Devpost" width="24px" src="https://cdn.iconscout.com/icon/free/png-512/dev-post-555431.png" />
+  <img align="left" alt="Keval's Devpost" width="24px" src="https://cdn.iconscout.com/icon/free/png-512/dev-post-555431.png" color= "white" />
 </a>
 <a href="https://www.instagram.com/kevalbotadra">
   <img align="left" alt="Keval's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
